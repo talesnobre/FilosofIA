@@ -1,4 +1,4 @@
-# Projeto_PLN - FilosofIA
+# FilosofIA - Project_NLP
 
 ## Instalação das dependências
 Certifique-se de ter instalado todas as dependências necessárias antes de executar o arquivo Python. Você pode fazer isso executando o seguinte comando no terminal:
