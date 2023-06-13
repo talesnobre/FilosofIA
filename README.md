@@ -1,4 +1,4 @@
-# Projeto_PLN
+# Projeto_PLN - FilosofIA
 
 ## Instalação das dependências
 Certifique-se de ter instalado todas as dependências necessárias antes de executar o arquivo Python. Você pode fazer isso executando o seguinte comando no terminal:
@@ -9,11 +9,12 @@ pip install -r requirements.txt
 
 Este comando irá ler o arquivo requirements.txt e instalar todas as dependências listadas nele.
 
-## Gerando o Dataset
-Após a instalação das dependências, você pode executar o arquivo Python usando o seguinte comando:
-
+## Rodando a aplicação
+Após baixar os requirements, você pode realizar o seguinte comando para acessar a pasta app.py:
 ```bash
-python arquivo.py
+cd app.py
 ```
-
-Certifique-se de estar no diretório correto onde o arquivo.py está localizado antes de executar o comando.
+Dentro dela o seguinte comando para rodar localmente:
+```bash
+streamlit run app.py
+```
