@@ -10,7 +10,7 @@ pip install -r requirements.txt
 Este comando irá ler o arquivo requirements.txt e instalar todas as dependências listadas nele.
 
 ## Rodando a aplicação
-Após baixar os requirements, você pode realizar o seguinte comando para rodar localmente o app.py:
+Após baixar os requirements, você pode realizar o seguinte comando para rodar localmente o FilosofIA.py:
 ```bash
-streamlit run app.py
+streamlit run FilosofIA.py
 ```
